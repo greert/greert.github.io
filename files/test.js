@@ -1,2 +1,1 @@
-myvar = 'shdhdhd';
-sessionStorage.setItem('test', 'Hello');
+accessToken = 'BQCSJ9Cgu-9v27PzJJeXOBU4sgWviflViOP3AvAd7HbcJX4CmEJTwqthdrbd24qYVTzX0pAaZEZa0htaqr7XwjCErg2Z4YIHYuqipeyVqpbWFx8mleptyXsKlS-HRxNcdNr8LtcLPMwNHegoRlDqB2aYHGw41mKiAMySmAmem7810BFkztu3GcoFkm3mmEWXm08ToL5MZU2dY28oLYVrBCttLTm5FfFjyReS-NjdWSznh4-fbxrDxjkGwRo2PYW8vr-croFw0qRgPOKVKeGNVqWaJ6k';
