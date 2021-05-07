@@ -1,2 +1,2 @@
 myvar = 'shdhdhd';
-sessionStorage.setItem('test ', 'Hello');
+sessionStorage.setItem('test', 'Hello');
